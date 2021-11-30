@@ -23,6 +23,17 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemansunny&show_icons=true&locale=en&layout=compact" alt="codemansunny" /></p><br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codemansunny&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemansunny)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codemansunny)  
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ahsanhabibsunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahsanhabibsunny" /></a><a href="https://ko-fi.com/ahsanhabibsunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahsanhabibsunny" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,12 +48,3 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://hashnode.com/ahsnahabibsunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ahsnahabibsunny" height="30" width="40" /></a>
 <a href="https://medium.com/@ahsnahbibsunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahsnahbibsunny" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemansunny&show_icons=true&locale=en&layout=compact" alt="codemansunny" /></p><br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codemansunny&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemansunny)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codemansunny)  
