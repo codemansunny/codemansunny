@@ -27,9 +27,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codemansunny&show_icons=true&count_private=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codemansunny)  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemansunny)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codemansunny)  
 
 
 <h3 align="left">Support:</h3>
